@@ -1,0 +1,26 @@
+{
+  "name": "communication_messengerbaselib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with the Base implementation for any Messenger lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/communication-libs/messengerbase.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "communication",
+    "messenger",
+    "base",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/communication-libs/messengerbase/issues"
+  },
+  "homepage": "https://github.com/communication-libs/messengerbase#readme"
+}
