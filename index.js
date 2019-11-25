@@ -1,7 +1,8 @@
 function createLib (execlib) {
   'use strict';
 
-  var lib = execlib.lib;
+  var lib = execlib.lib,
+    q = lib.q;
 
   function MessengerBase (prophashignored) {
     if (!this.sendingsystemcode) {

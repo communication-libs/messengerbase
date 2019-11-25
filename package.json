@@ -1,6 +1,6 @@
 {
   "name": "communication_messengerbaselib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AllexJS lib with the Base implementation for any Messenger lib",
   "main": "index.js",
   "scripts": {
